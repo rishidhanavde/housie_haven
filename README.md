@@ -1,16 +1,25 @@
-# housie_haven
+# 🎉 Housie Haven 🎟️  
 
-A new Flutter project.
+A **Flutter**-powered Housie (Tambola) game app that brings the fun of number-based ticket games to your fingertips. Enjoy seamless multiplayer gameplay, interactive UI, and real-time updates!  
 
-## Getting Started
+## ✨ Features  
+✅ Create & Join Housie Games  
+✅ Auto-Generated Tickets with Number Marking  
+✅ Randomized Number Calling System
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/housie-haven.git
+2. Navigate to the project folder:  
+   ```bash
+   cd housie-haven
+3. Install dependencies:  
+   ```bash
+   flutter pub get
+4. Run the appd:  
+   ```bash
+   flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Contributions
+Contributions are welcome! Feel free to submit issues or pull requests.
